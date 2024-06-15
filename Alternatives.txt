@@ -1,0 +1,8 @@
+- ~~Google Youtube~~ [Invidious](https://gitea.invidious.io/iv-org/invidious)
+- ~~Reddit~~ [Teddit](https://teddit.net/)
+- ~~Google Translate~~ [Lingva](https://lingva.ml/)
+- ~~Google Search~~ [Whoogle](https://whoogle.fossho.st/)
+- ~~Twitter~~ [nitter](https://nitter.net/)
+- ~~Imgur~~ [imgin](https://imgin.voidnet.tech/)
+- ~~Meta Instagram~~ [Bibliogram](https://bibliogram.art/)
+- Redirector browser extension for [Chrome](https://chrome.google.com/webstore/detail/redirector/ocgpenflpmgnfapjedencafcfakcekcd/related)-based or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/redirector/)-based browsers - [source](https://github.com/einaregilsson/Redirector)
