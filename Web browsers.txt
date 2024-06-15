@@ -1,0 +1,4 @@
+- [Tor Browser](https://www.torproject.org/download/)
+- [Brave](https://brave.com/)
+- [Firefox](https://www.mozilla.org/en-US/firefox/) and [Firefox Profilemaker](https://ffprofile.com/) (beware of the [telemetry data](https://sizeof.cat/post/web-browser-telemetry/#mozilla-firefox)
+- [Librewolf](https://librewolf.net)
