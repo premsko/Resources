@@ -1,0 +1,11 @@
+Rust - Book
+
+https://jimskapt.github.io/rust-book-fr/
+
+Serenity - Discord
+
+https://github.com/serenity-rs/serenity
+
+Teloxide - Telegram
+
+https://github.com/teloxide/teloxide
