@@ -1,0 +1,6 @@
+- [VMware](https://www.vmware.com/)
+- [VirtualBox](https://virtualbox.org/)
+- [Parallels](https://www.parallels.com/)
+- [CrossOver](https://www.codeweavers.com/crossover)
+- [KVM](https://www.linux-kvm.org/page/Main_Page)
+- [QEMU](https://www.qemu.org/)
