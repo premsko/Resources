@@ -1,0 +1,8 @@
+- [Sarek](https://sarek.fi/)
+- [DDoS Guard](https://ddos-guard.net/)
+- [1984](https://1984.is/)
+- [Njalla Domains](https://njal.la/domains/)
+- [NextDNS](https://nextdns.io/)
+- [Quad9](https://www.quad9.net/)
+- [DNSLog](http://dnslog.cn/)
+- [Dns0](https://dns0.eu/)
