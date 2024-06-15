@@ -1,0 +1,4 @@
+- [ArchLinux dm-crypt](https://wiki.archlinux.org/index.php/Dm-crypt)
+- [Linux Unified Key Setup (LUKS)](https://wiki.archlinux.org/title/Dm-crypt/Encrypting_an_entire_system)
+- [VeraCrypt](https://veracrypt.fr/)
+- [macOS FileVault 2](https://support.apple.com/en-us/HT204837)
