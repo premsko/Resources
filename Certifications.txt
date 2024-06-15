@@ -1,0 +1,4 @@
+- [CEH (Certified Ethical Hacker)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
+- [OSCP (Offensive Security Certified Professional)](https://www.offensive-security.com/pwk-oscp/)
+- [GIAC](https://www.giac.org/)
+- [GPEN](https://www.giac.org/certifications/penetration-tester-gpen/)
