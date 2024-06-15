@@ -1,0 +1,5 @@
+- [Mail-in-a-Box](https://mailinabox.email/)
+- [DIY Mail](https://computer.rip/2021-12-26-diy-mail.html)
+- [MX Lookup](https://mxtoolbox.com/)
+- [DNMX](https://dnmx.org/)
+- [Tutanota](https://tuta.com/)
