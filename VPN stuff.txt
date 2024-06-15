@@ -1,0 +1,8 @@
+- [Safing](https://safing.io/)
+- [Azire](https://www.azirevpn.com/)
+- [WireGuard](https://www.wireguard.com/)
+- [Mullvad](https://mullvad.net/)
+- [Njalla](https://njal.la/vpn/)
+- [Algo](https://github.com/trailofbits/algo)
+- [OpenVPN](https://openvpn.net/)
+- [Tunnelblick](https://tunnelblick.net/)
