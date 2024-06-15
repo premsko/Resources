@@ -1,0 +1,9 @@
+https://github.com/Squiblydoo/debloat
+
+https://github.com/ChrisTitusTech/winutil
+
+[ARCH LINUX SECURITY AND PRIVACY GUIDE](https://theprivacyguide1.github.io/linux_hardening_guide)
+
+https://privacy.sexy/
+
+https://wpd.app/
