@@ -1,0 +1,7 @@
+- [Turris Omnia](https://www.turris.com/en/omnia/overview/)
+- [Pi-hole](https://pi-hole.net/)
+- [StevenBlack’s hosts](https://github.com/StevenBlack/hosts)
+- [OpenWrt](https://openwrt.org/)
+- [DD-WRT](https://dd-wrt.com/)
+- [FreshTomato](https://www.freshtomato.org/)
+- [Protectli](https://protectli.com/)
